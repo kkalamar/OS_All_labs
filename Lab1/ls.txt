@@ -1,0 +1,6 @@
+..
+input.txt
+output
+.
+head-tail.txt
+ls.txt

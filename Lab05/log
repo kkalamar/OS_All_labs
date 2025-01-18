@@ -1,0 +1,25 @@
+/home/kkalamar/Lab05
+log
+-bash: cd: Lab05: No such file or directory
+stat: cannot stat 'filename': No such file or directory
+  File: filename
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 302977      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1277/kkalamar)   Gid: ( 1279/kkalamar)
+Access: 2024-12-17 15:34:41.935910086 +0200
+Modify: 2024-12-17 15:34:41.935910086 +0200
+Change: 2024-12-17 15:34:41.935910086 +0200
+ Birth: -
+cp: cannot stat 'source.txt': No such file or directory
+mv: cannot stat 'oldname.txt': No such file or directory
+rm: cannot remove 'file_to_delete.txt': No such file or directory
+rmdir: failed to remove 'empty_directory': No such file or directory
+mkdir: invalid option -- 'r'
+Try 'mkdir --help' for more information.
+rm: cannot remove 'directory_to_delete': No such file or directory
+./source.txt
+./newname.txt
+./destination.txt
+cat: file.txt: No such file or directory
+tar: Lab05: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
